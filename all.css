@@ -1,0 +1,204 @@
+#drop:hover{
+    background-color: #1967d2;
+    color: white;
+}
+
+.part1 a button:hover{
+    color: #df1010;
+    border-color: #df1010!important;
+}
+
+.nav-link:hover ,.b:hover, .navbar-brand:hover , .a:hover .fashion-li1:hover ,#phone:hover{
+    color: #df1010 !important;
+}
+
+.d-girl:hover .girl{
+    transform: scale(1.1) !important;
+    transition: all 0.5s !important;
+}
+
+.fashion:hover{
+    text-decoration: underline !important;
+}
+
+.img-d:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.cardd:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.cardd:hover .icons{
+    transform: translateY(0);
+    transition: all 1s; 
+    opacity: 1;
+}
+
+.icons i:hover{
+    color: white;
+    background-color: black !important;
+}
+
+.owl-dot:hover span,.owl-dot.active span{
+    background-color: white !important;
+}
+
+.c:hover{
+    color: white !important;
+    background-color: black !important;
+}
+
+.c1:hover{
+    color: white !important;
+    background-color: transparent !important;
+}
+
+.icon-d:hover .icon-x{
+    color: black !important;
+}
+
+.w-30{
+    width: 31%!important;
+}
+
+.w-20{
+    width: 25%!important;
+    left: 45%!important;
+    padding-top: 20%!important;
+}
+
+.w-60{
+    width: 70% !important;
+}
+
+
+.w-19{
+    width: 35%!important;
+}
+
+.w-70{
+    width: 200px;
+}
+
+.w-21{
+    width: 20%;
+}
+
+.h-20{
+    height: 25px;
+}
+
+.h-120{
+    height: 600px !important;
+}
+
+.first-input{
+    box-shadow: none!important;
+}
+
+.mt-6{
+    margin-top: 2.1rem!important;
+}
+
+.me-7{
+    margin-right: 70%;
+}
+
+.m-20{
+    margin-left: 25rem;
+}
+
+.x{
+    background-image: url(images/login-banner.jpg);
+}
+
+.y{
+    top: 13%;
+    left: 42%;
+    height: 20px;
+}
+
+.y2{
+    top: 11%;
+    left: 50%;
+    height: 20px;
+}
+
+.icon{
+    font-size: 25px;
+}
+
+.z div{
+    line-height: 0.4;
+}
+
+
+.orange-bg{
+    background-color: #edb57b;
+}
+
+.discount{
+    top: 10px;
+}
+
+.icons{
+    top: 30px;
+    right: 20px;
+    opacity: 0;
+    transform: scale(1);
+    transition: all 1s; 
+}
+
+.owl-dots {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.owl-dots span{
+    background-color: transparent !important;
+    border: 2px solid white;
+
+}
+
+.arrow{
+    opacity: 0;
+    transition: 0.4s ease;
+    background-color: rgba(51, 51, 51, 0.6);
+}
+
+.arrow-i{
+    transition: 0.4s ease;
+    top: 35%;
+    left: 25%;
+}
+
+.box:hover .arrow{
+    opacity: 1 !important;
+    
+}
+
+.box:hover .arrow-i{
+    left: 35% !important;
+}
+
+.Copuon:hover{
+    border-bottom: #df1010 dashed 1px !important;
+    
+}
+
+.owl-nav{
+    opacity: 0;
+}
+
+.carousel:hover .owl-nav{
+    opacity: 1;
+}
+
+.carousrl-icon:hover{
+    background-color: black !important;
+    color: white !important;
+}
